@@ -12,9 +12,11 @@ I think this is kinda self explanatory ._.
 
 ![image](https://media.discordapp.net/attachments/1139492863537860689/1145792961624416376/259542387-55db9418-0bd4-42bd-85be-dd77d5de4852.png?width=645&height=118)
 
+[iq]: https://github.com/3000IQPlay
+
 # Credits
 - Mitfox - for making the client.
-- (3000IQPlay)[https://github.com/3000IQPlay] - cracking + deobfuscating the client.
+- [3000IQPlay][iq] - cracking + deobfuscating the client.
 - ??? - providing a jar.
 
 # GUI
