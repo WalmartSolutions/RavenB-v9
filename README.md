@@ -14,7 +14,7 @@ I think this is kinda self explanatory ._.
 
 # Credits
 - Mitfox - for making the client.
-- [3000IQPlay][https://github.com/3000IQPlay] - cracking + deobfuscating the client.
+- (3000IQPlay)[https://github.com/3000IQPlay] - cracking + deobfuscating the client.
 - ??? - providing a jar.
 
 # GUI
