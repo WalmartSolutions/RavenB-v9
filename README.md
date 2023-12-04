@@ -1,4 +1,4 @@
-<h1 align="center">Raven B- v9</h1>
+<h1 align="center">Raven B-</h1>
 
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
